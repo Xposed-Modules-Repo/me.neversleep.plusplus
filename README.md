@@ -10,6 +10,10 @@ Modify the click event of the power button as follows: only the screen is off, a
 # 已测试环境|Tested environment
 - Android9  MIUI10 9.9.3
 - Android11 MIUI12.5.13
+# 三种控制方式
+- 主界面按钮
+- 磁贴（快速设置）
+- shell命令
 
 # Three control methods
 - main interface buttons
